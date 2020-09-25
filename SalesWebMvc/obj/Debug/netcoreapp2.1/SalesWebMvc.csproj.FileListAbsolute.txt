@@ -41,3 +41,4 @@ C:\Temp\SalesWebProject\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Vi
 C:\Temp\SalesWebProject\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp2.1\Properties\serviceDependencies.json
 C:\Temp\SalesWebProject\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp2.1\Properties\serviceDependencies.local.json
 C:\Temp\SalesWebProject\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csproj.CoreCompileInputs.cache
+C:\Temp\SalesWebProject\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Index.cshtml.g.cs
