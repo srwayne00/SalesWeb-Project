@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\droid\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\droid\\.nuget\\packages"
+    ]
+  }
+}
