@@ -44,3 +44,4 @@ C:\Temp\SalesWebProject\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWeb
 C:\Temp\SalesWebProject\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Index.cshtml.g.cs
 C:\Temp\SalesWebProject\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Create.cshtml.g.cs
 C:\Temp\SalesWebProject\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Temp\SalesWebProject\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Delete.cshtml.g.cs
