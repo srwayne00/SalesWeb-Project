@@ -42,3 +42,5 @@ C:\Temp\SalesWebProject\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp2.1\Properti
 C:\Temp\SalesWebProject\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp2.1\Properties\serviceDependencies.local.json
 C:\Temp\SalesWebProject\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csproj.CoreCompileInputs.cache
 C:\Temp\SalesWebProject\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Index.cshtml.g.cs
+C:\Temp\SalesWebProject\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Create.cshtml.g.cs
+C:\Temp\SalesWebProject\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
